@@ -1,5 +1,12 @@
 # depslib dependency file v1.0
-1599167328 source:c:\users\ilnano\desktop\cursada2020prog-labo\proyectos code blocks\ejercicio funciones pruebas\main.c
+1599169237 source:c:\users\ilnano\desktop\cursada2020prog-labo\proyectos code blocks\ejercicio funciones pruebas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1599169211 c:\users\ilnano\desktop\cursada2020prog-labo\proyectos code blocks\ejercicio funciones pruebas\funciones.h
+
+1599169532 source:c:\users\ilnano\desktop\bibliotecas en c\funciones.c
 	<stdio.h>
 	<stdlib.h>
 
