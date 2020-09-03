@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1598617864 source:c:\users\ilnano\desktop\git\asistenciaej\main.c
+	<stdio.h>
+	<stdlib.h>
+
