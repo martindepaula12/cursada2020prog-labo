@@ -12,14 +12,11 @@ int main()
     printf("ingrese numero:");
     scanf("%d", &numeroIngresado);
 
-    for(x = numeroIngresado;x>1;x--){
+    for(x = numeroIngresado;x>0;x--){
 
         numeroFactorial = numeroFactorial * x;
 
     }
-
-
-
 
     printf("el numero es: %d", numeroFactorial);
     system("pause");
