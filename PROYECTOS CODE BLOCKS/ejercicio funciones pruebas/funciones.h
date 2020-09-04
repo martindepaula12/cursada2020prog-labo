@@ -1,0 +1,12 @@
+int sumarNumeros(int numeroUno, int numeroDos);
+void mostrarDatoEnteroSuma(int datoParametro);
+void calcularYMostrarSuma(int numeroUno, int numeroDos);
+int restarNumeros(int numeroUno, int NumeroDos);
+void mostrarDatoResta (int datoParametro);
+void calcularYMostrarResta(int numeroUno, int numeroDos);
+float dividirNumeros(int numeroUno, int numeroDos);
+void mostrarDivision(float datoDivision);
+void calcularYMostrarDivision(int numeroUno, int numeroDos);
+int multiplicarNumeros(int numeroUno, int numeroDos);
+void mostrarMultiplicacion(int datoMultiplicacion);
+void calcularYMostrarMultiplicacion(int numeroUno, int numeroDos);
